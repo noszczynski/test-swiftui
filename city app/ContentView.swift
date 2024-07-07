@@ -10,11 +10,17 @@ struct ContentView: View {
     @Query private var items: [Item]
 
     var body: some View {
-        VStack {
+        VStack(alignment: .leading) {
                     Text("Turtle Rock")
                         .font(.title)
-                    Text("Joshua Tree National Park")
-                }
+            HStack {
+                Text("Joshua Tree National Park")
+                    .font(.subheadline)
+                Spacer()
+                Text("California")
+                    .font(.subheadline)
+            }
+        }.padding()
     }
 }
 

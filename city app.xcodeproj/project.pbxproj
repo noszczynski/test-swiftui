@@ -15,6 +15,7 @@
 		161DC97E2C397CC00072FFFA /* city_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 161DC97D2C397CC00072FFFA /* city_appTests.swift */; };
 		161DC9882C397CC00072FFFA /* city_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 161DC9872C397CC00072FFFA /* city_appUITests.swift */; };
 		161DC98A2C397CC00072FFFA /* city_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 161DC9892C397CC00072FFFA /* city_appUITestsLaunchTests.swift */; };
+		16F3D05E2C3AEF4000D23B65 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F3D05D2C3AEF4000D23B65 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		161DC9832C397CC00072FFFA /* city appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "city appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		161DC9872C397CC00072FFFA /* city_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = city_appUITests.swift; sourceTree = "<group>"; };
 		161DC9892C397CC00072FFFA /* city_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = city_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		16F3D05D2C3AEF4000D23B65 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				161DC96A2C397CBF0072FFFA /* city_appApp.swift */,
 				161DC96C2C397CBF0072FFFA /* ContentView.swift */,
+				16F3D05D2C3AEF4000D23B65 /* CircleImage.swift */,
 				161DC96E2C397CBF0072FFFA /* Item.swift */,
 				161DC9702C397CC00072FFFA /* Assets.xcassets */,
 				161DC9722C397CC00072FFFA /* Preview Content */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				161DC96D2C397CBF0072FFFA /* ContentView.swift in Sources */,
+				16F3D05E2C3AEF4000D23B65 /* CircleImage.swift in Sources */,
 				161DC96F2C397CBF0072FFFA /* Item.swift in Sources */,
 				161DC96B2C397CBF0072FFFA /* city_appApp.swift in Sources */,
 			);
