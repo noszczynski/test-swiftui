@@ -1,0 +1,195 @@
+[
+    {
+        "name": "Rynek Główny",
+        "category": "Place",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Stare Miasto",
+        "coordinates": {
+            "longitude": 19.937245,
+            "latitude": 50.061947
+        },
+        "description": "Rynek Główny w Krakowie to największy średniowieczny plac miejski w Europie, otoczony zabytkowymi kamienicami, pałacami i kościołami.",
+        "imageName": "krakow-main-square"
+    },
+    {
+        "name": "Zamek Królewski na Wawelu",
+        "category": "Zamek",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Wzgórze Wawelskie",
+        "coordinates": {
+            "longitude": 19.935243,
+            "latitude": 50.054600
+        },
+        "description": "Zamek Królewski na Wawelu to rezydencja królewska i symbol polskiej państwowości, znajdująca się na wzgórzu wawelskim.",
+        "imageName": "wawel"
+    },
+    {
+        "name": "Kazimierz",
+        "category": "Dzielnica",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Brak",
+        "coordinates": {
+            "longitude": 19.9481,
+            "latitude": 50.0497
+        },
+        "description": "Kazimierz to historyczna dzielnica żydowska w Krakowie, znana z licznych synagog, urokliwych uliczek i bogatej historii.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Kopalnia Soli w Wieliczce",
+        "category": "Kopalnia",
+        "city": "Wieliczka",
+        "state": "Małopolskie",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Brak",
+        "coordinates": {
+            "longitude": 20.0586,
+            "latitude": 49.9831
+        },
+        "description": "Kopalnia Soli w Wieliczce to jedna z najstarszych kopalni soli na świecie, wpisana na listę UNESCO.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Sukiennice",
+        "category": "Budynek",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Rynek Główny",
+        "coordinates": {
+            "longitude": 19.937245,
+            "latitude": 50.061947
+        },
+        "description": "Sukiennice to historyczna hala targowa na Rynku Głównym w Krakowie, pełniąca funkcję centrum handlowego od średniowiecza.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Kościół Mariacki",
+        "category": "Kościół",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Rynek Główny",
+        "coordinates": {
+            "longitude": 19.939226,
+            "latitude": 50.061947
+        },
+        "description": "Kościół Mariacki to jeden z najbardziej znanych kościołów w Polsce, z charakterystycznym ołtarzem Wita Stwosza.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Barbakan",
+        "category": "Fortyfikacja",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Planty",
+        "coordinates": {
+            "longitude": 19.944839,
+            "latitude": 50.065534
+        },
+        "description": "Barbakan to część miejskich fortyfikacji Krakowa, stanowiący unikalny przykład średniowiecznej architektury obronnej.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Collegium Maius",
+        "category": "Budynek",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Brak",
+        "coordinates": {
+            "longitude": 19.9335,
+            "latitude": 50.0601
+        },
+        "description": "Collegium Maius to najstarszy budynek Uniwersytetu Jagiellońskiego, będący jednym z najważniejszych zabytków akademickich w Polsce.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Kopiec Kościuszki",
+        "category": "Pomnik",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Brak",
+        "coordinates": {
+            "longitude": 19.8882,
+            "latitude": 50.0541
+        },
+        "description": "Kopiec Kościuszki to sztuczne wzniesienie poświęcone Tadeuszowi Kościuszce, z którego rozciąga się panoramiczny widok na Kraków.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Kościół św. Piotra i Pawła",
+        "category": "Kościół",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Brak",
+        "coordinates": {
+            "longitude": 19.9378,
+            "latitude": 50.0568
+        },
+        "description": "Kościół św. Piotra i Pawła to barokowy kościół w Krakowie, znany ze swojej imponującej fasady i rzeźbionych figur świętych.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Kościół św. Wojciecha",
+        "category": "Kościół",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Rynek Główny",
+        "coordinates": {
+            "longitude": 19.9382,
+            "latitude": 50.0603
+        },
+        "description": "Kościół św. Wojciecha to jeden z najstarszych kościołów w Krakowie, zbudowany w XI wieku na Rynku Głównym.",
+        "imageName": "krakow"
+    },
+    {
+        "name": "Klasztor Ojców Paulinów na Skałce",
+        "category": "Klasztor",
+        "city": "Kraków",
+        "state": "Małopolskie",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Brak",
+        "coordinates": {
+            "longitude": 19.9459,
+            "latitude": 50.0489
+        },
+        "description": "Klasztor Ojców Paulinów na Skałce to miejsce męczeństwa św. Stanisława, biskupa krakowskiego, znane z barokowego kościoła i klasztoru.",
+        "imageName": "krakow"
+    }
+]
+

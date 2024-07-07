@@ -2,8 +2,9 @@ import SwiftUI
 
 struct CircleImage: View {
     var body: some View {
-        Image("house")
-            .resizable()
+        Image("krakow")
+            .resizable(resizingMode: .stretch)
+            .aspectRatio(contentMode: /*@START_MENU_TOKEN@*/.fill/*@END_MENU_TOKEN@*/)
             .frame(width: 250, height: 250)
             .clipShape(Circle())
             .overlay {
